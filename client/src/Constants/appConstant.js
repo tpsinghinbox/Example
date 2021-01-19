@@ -1,5 +1,5 @@
 export const appConstant = {  
     
-    APP_NAME : 'XRay'
+    APP_NAME : 'Example'
     
 }
